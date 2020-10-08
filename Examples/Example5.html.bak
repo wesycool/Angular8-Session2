@@ -1,0 +1,15 @@
+<html>
+<head>
+<script>
+function squareOf(n) {
+	return n * n
+}
+
+console.log(squareOf(1)); // evalutes to 4
+squareOf('z'); //evaluates to NAN
+</script>
+</head>
+<body>
+
+</body>
+</html>

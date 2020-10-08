@@ -1,0 +1,4 @@
+var a = 3 + [1]; //evalutate to "31"
+console.log("a:" + a);
+var b = (3).toString() + [1].toString(); // evaluate to "31"
+console.log("b:" + b);

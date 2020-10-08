@@ -1,0 +1,5 @@
+let a = 'hello'; //string
+let b = 'billy' //string
+const c = '!'; // '!'
+let d = a + ' ' + b + c //string
+let e: string = 'zoom'; //string
